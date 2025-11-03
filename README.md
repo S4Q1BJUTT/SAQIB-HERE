@@ -1,3 +1,4 @@
-pkg update pkg upgrade pkg install python pkg install python2 pkg install git pip2 install requests pip2 install machanize git clone https://github.com/S4Q1BJUTT/SAQIB-HERE.git
-cd S4Q1BJUTT 
+rm -rf SAQIB-HERE
+git clone https://github.com/S4Q1BJUTT/SAQIB-HERE.git
+cd SAQIB-HERE
 python saqib.py
